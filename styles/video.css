@@ -20,6 +20,7 @@
 }
 
 .video-title {
+  color: white;
   margin-top: 0;
   font-size: 14px;
   font-weight: 500;
@@ -30,7 +31,7 @@
 
 .video-title:hover {
   appearance: underline;
-  color: #ffc800;
+  color: #75E0F0;
 }
 
 .video-info-grid {

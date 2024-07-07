@@ -13,18 +13,21 @@
 }
 
 .left-section {
-  width: 150px;
+  width: 250px;
   margin-left: 50px;
+  margin-top: -1.2%;
 }
 
-.logo {
-  object-fit: fill;
-  border: none;
-  border-radius: 15px;
-  width: 150px;
-  height: 75px;
-  padding-bottom: 10px;
-  padding-top: 10px;
+i{
+  color: #75E0F0;
+  font-size: 40px;
+  margin-left: 3%;
+}
+
+p{
+  color: #75E0F0;
+  font-size: 40px;
+  margin-top: 15%;
 }
 
 .middle-section {

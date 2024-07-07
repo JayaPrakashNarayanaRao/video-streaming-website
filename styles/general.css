@@ -28,7 +28,7 @@ body {
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #ffc800;
+  background: #75E0F0;
   box-shadow: inset 0 0 2px black;
 }
 
